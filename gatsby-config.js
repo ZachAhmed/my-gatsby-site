@@ -2,7 +2,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 
-import "./src/styles/global.css"
+/*import "./src/styles/global.css"*/
 
 module.exports = {
   siteMetadata: {
