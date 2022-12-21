@@ -2,8 +2,6 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 
-/*import "./src/styles/global.css"*/
-
 module.exports = {
   siteMetadata: {
     title: `My Gatsby Site`,
